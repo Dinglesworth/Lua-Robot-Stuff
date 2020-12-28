@@ -1,1 +1,2 @@
-print("Hello, World!")
+local rob = require("robot")
+rob.forward()
